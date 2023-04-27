@@ -10,9 +10,7 @@ The goal of this project is to create a multi-threaded web crawler. A Web crawle
 ## Features/Deliverables
  - Part 1: Multi-threaded web-crawler
  - Part 2: (Extended scope) Web Ranking
- 
-## Simple Crawler Flowchart
-![flowchart](https://github.com/ShrutiKatpara/Web-Crawler/blob/main/UTILS/flowchart.jfif)
+
 
 <!--ts-->
 ## [Table of contents](#table-of-contents)
@@ -330,66 +328,4 @@ _[Back to Table of Contents](#table-of-contents)_
     
 _[Back to Table of Contents](#table-of-contents)_
 
-## [How to reuse this repo](#how-to-reuse-this-repo)
-- `fork` the repo from top right corner of this page
-- Run following in your terminal
-<pre><code>
-    $ git clone https://github.com/[USERNAME]/Web-Crawler
-    $ cd Web-Crawler
-    $ make
-</pre></code>
-- Pull requests are highly appreciated
 
-- All the codes are well commented, in case of query feel free to contact
-  - anupam.kumar@iitgn.ac.in
-  - shruti.katpara@iitgn.ac.in
-  - preeti.chiluveru@iitgn.ac.in
-  - vivek.modi@iitgn.ac.in
-
-
-## Presentation link
- - [Google slides](https://docs.google.com/presentation/d/1hry5oK9I8fozkhN13xgKqUBYKl4Ul3y4EI6qeO2szV0/edit?usp=sharing)_
-
-## [Credits](#credits)
- - [How to write a multi-threaded webcrawler](http://www.andreas-hess.info/programming/webcrawler/index.html)
- - [DOWNLOADING A WEB PAGE IN C USING A SOCKET](http://www.martinbroadhurst.com/downloading-a-web-page-in-c-using-a-socket.html)
- - [std::condition_variable](https://www.cplusplus.com/reference/condition_variable/condition_variable/)
- - [Scrapy](https://scrapy.org/)
- - [PageRank](https://cs50.harvard.edu/ai/2020/projects/2/pagerank/)
-
-## Contributors
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/akcgjc007">
-          <img src="https://avatars2.githubusercontent.com/u/56300182" width="100;" alt="anupam"/>
-          <br />
-          <sub><b>Anupam Kumar</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Preeti29-bot">
-          <img src="https://avatars.githubusercontent.com/u/68664353" width="100;" alt="anupam"/>
-          <br />
-          <sub><b>Preeti Chiluveru</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kshru9">
-          <img src="https://avatars.githubusercontent.com/u/45987734" width="100;" alt="anupam"/>
-          <br />
-          <sub><b>Shruti Katpara</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/viper-vm">
-          <img src="https://avatars.githubusercontent.com/u/45145119" width="100;" alt="anupam"/>
-          <br />
-          <sub><b>Vivek Modi</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
